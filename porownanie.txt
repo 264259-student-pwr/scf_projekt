@@ -1,4 +1,0 @@
-Adam -> Best Validation Accuracy: 85.91%, Test Accuracy: 85.04%
-SGD -> Best Validation Accuracy: 82.05%, Test Accuracy: 80.15%
-Adamax -> Best Validation Accuracy: 84.42%, Test Accuracy: 83.56%
-RMSprop -> Best Validation Accuracy: 85.31%, Test Accuracy: 78.96%
